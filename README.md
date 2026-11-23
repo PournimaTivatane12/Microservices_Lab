@@ -1,5 +1,5 @@
 
-# A constantly Work In Progress environment in which I experiment with my tools, workflow clusters, etc.
+# A constantly evolving work-in-progress environment in which I experiment with my tools, workflow clusters, etc.
 
 DevOps Practice Projects
 
@@ -33,7 +33,9 @@ Architecture:
 
 **Project no. 5**
 
-**Automated Infrastructure Provisioning with Terraform using aws**
+**Automated Infrastructure Provisioning with Terraform using AWS **
+
+**Project no. 6**
 
 Architecture:
 
