@@ -1,0 +1,11 @@
+{
+  "name": "serverless-tasks-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "deploy": "serverless deploy --stage dev",
+    "init-db": "serverless invoke -f initDb --stage dev",
+    "frontend": "bash scripts/deploy_frontend.sh dev",
+    "remove": "serverless remove --stage dev"
+  }
+}
